@@ -5,6 +5,7 @@
 # <p align="center">LILO P2P</p>
 
 <p align="center">P2P based - Portable, No Configuration or Installation Needed.</p>
+<p align="center">Finaly released on 12.June.2022 (no more updates (please use the newer variants)).</p>
 
 <hr />
 
