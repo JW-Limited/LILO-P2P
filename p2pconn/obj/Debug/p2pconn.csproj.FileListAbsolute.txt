@@ -1,0 +1,24 @@
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\bin\Debug\p2p.exe.config
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\bin\Debug\p2p.exe
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.AssemblyReference.cache
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.Form1.resources
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.pDesktop.resources
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2p.Properties.Resources.resources
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.GenerateResource.cache
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.CoreCompileInputs.cache
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2p.exe
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\obj\Debug\p2p.pdb
+C:\Users\Joey West\Source\Repos\p2p\p2pconn\bin\Debug\p2p.pdb
+C:\Users\joeva\source\repos\p2p\p2pconn\bin\Debug\p2p.exe.config
+C:\Users\joeva\source\repos\p2p\p2pconn\bin\Debug\p2p.exe
+C:\Users\joeva\source\repos\p2p\p2pconn\bin\Debug\p2p.pdb
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.AssemblyReference.cache
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.SuggestedBindingRedirects.cache
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.Form1.resources
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.pDesktop.resources
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2p.Properties.Resources.resources
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.GenerateResource.cache
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2pconn.csproj.CoreCompileInputs.cache
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2p.exe
+C:\Users\joeva\source\repos\p2p\p2pconn\obj\Debug\p2p.pdb
